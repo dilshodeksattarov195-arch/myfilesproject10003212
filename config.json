@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpervncrypt",
+        "uuid": 6440060,
+        "checksum": "umag9"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
